@@ -1,0 +1,501 @@
+invoice_id,submission_date,approval_date,processing_stage,stage_duration_days,approval_days,department,error_flag,approval_status,invoice_amount
+INV001,2023-01-05,2023-01-12,Document Entry,3,7,Finance,0,Approved,15000
+INV002,2023-01-06,2023-01-15,Verification,6,9,Procurement,1,Approved,25000
+INV003,2023-01-07,2023-01-10,Document Entry,2,3,Finance,0,Approved,8500
+INV004,2023-01-08,2023-01-20,Verification,8,12,Procurement,1,Rejected,45000
+INV005,2023-01-09,2023-01-14,Classification,4,5,Finance,0,Approved,12000
+INV006,2023-01-10,2023-01-18,Document Entry,4,8,Operations,0,Approved,18000
+INV007,2023-01-11,2023-01-28,Verification,10,17,Procurement,1,Approved,55000
+INV008,2023-01-12,2023-01-16,Classification,3,4,Finance,0,Approved,9500
+INV009,2023-01-13,2023-01-22,Document Entry,5,9,Operations,1,Approved,22000
+INV010,2023-01-14,2023-01-19,Classification,2,5,Finance,0,Approved,11000
+INV011,2023-01-15,2023-01-24,Verification,7,9,Procurement,0,Approved,38000
+INV012,2023-01-16,2023-01-20,Document Entry,3,4,Finance,0,Approved,14000
+INV013,2023-01-17,2023-02-02,Verification,11,16,Procurement,1,Approved,62000
+INV014,2023-01-18,2023-01-23,Classification,4,5,Finance,0,Approved,13000
+INV015,2023-01-19,2023-01-27,Document Entry,5,8,Operations,0,Approved,19500
+INV016,2023-01-20,2023-02-05,Verification,12,16,Procurement,1,Pending,58000
+INV017,2023-01-21,2023-01-26,Classification,3,5,Finance,0,Approved,10000
+INV018,2023-01-22,2023-02-01,Document Entry,7,10,Operations,1,Approved,28000
+INV019,2023-01-23,2023-01-28,Classification,2,5,Finance,0,Approved,9000
+INV020,2023-01-24,2023-02-08,Verification,11,15,Procurement,1,Approved,65000
+INV021,2023-01-25,2023-01-30,Document Entry,4,5,Finance,0,Approved,16000
+INV022,2023-01-26,2023-02-10,Verification,10,15,Procurement,0,Approved,48000
+INV023,2023-01-27,2023-02-02,Classification,4,6,Finance,1,Approved,17000
+INV024,2023-01-28,2023-02-05,Document Entry,6,8,Operations,0,Approved,21000
+INV025,2023-01-29,2023-02-08,Verification,7,10,Procurement,1,Approved,42000
+INV026,2023-01-30,2023-02-04,Classification,3,5,Finance,0,Approved,11500
+INV027,2023-02-01,2023-02-18,Verification,13,17,Procurement,1,Pending,70000
+INV028,2023-02-02,2023-02-07,Document Entry,3,5,Finance,0,Approved,13500
+INV029,2023-02-03,2023-02-14,Document Entry,7,11,Operations,1,Approved,32000
+INV030,2023-02-04,2023-02-09,Classification,2,5,Finance,0,Approved,8500
+INV031,2023-02-05,2023-02-25,Verification,14,20,Procurement,1,Approved,72000
+INV032,2023-02-06,2023-02-11,Document Entry,4,5,Finance,0,Approved,15500
+INV033,2023-02-07,2023-02-20,Verification,9,13,Procurement,0,Approved,44000
+INV034,2023-02-08,2023-02-13,Classification,3,5,Finance,1,Approved,10500
+INV035,2023-02-09,2023-02-22,Document Entry,8,13,Operations,1,Approved,35000
+INV036,2023-02-10,2023-02-15,Classification,2,5,Finance,0,Approved,9500
+INV037,2023-02-11,2023-03-05,Verification,15,22,Procurement,1,Approved,75000
+INV038,2023-02-12,2023-02-17,Document Entry,3,5,Finance,0,Approved,14000
+INV039,2023-02-13,2023-02-26,Document Entry,9,13,Operations,1,Approved,38000
+INV040,2023-02-14,2023-02-19,Classification,3,5,Finance,0,Approved,11000
+INV041,2023-02-15,2023-03-08,Verification,16,21,Procurement,1,Pending,80000
+INV042,2023-02-16,2023-02-21,Document Entry,4,5,Finance,0,Approved,16500
+INV043,2023-02-17,2023-03-02,Verification,10,13,Procurement,0,Approved,46000
+INV044,2023-02-18,2023-02-23,Classification,2,5,Finance,1,Approved,9000
+INV045,2023-02-19,2023-03-04,Document Entry,10,13,Operations,1,Approved,40000
+INV046,2023-02-20,2023-02-25,Classification,3,5,Finance,0,Approved,12500
+INV047,2023-02-21,2023-03-10,Verification,12,17,Procurement,1,Approved,68000
+INV048,2023-02-22,2023-02-27,Document Entry,4,5,Finance,0,Approved,15000
+INV049,2023-02-23,2023-03-09,Document Entry,11,14,Operations,1,Approved,42000
+INV050,2023-02-24,2023-03-01,Classification,3,5,Finance,0,Approved,10000
+INV051,2023-02-25,2023-03-18,Verification,14,21,Procurement,1,Approved,76000
+INV052,2023-02-26,2023-03-03,Document Entry,3,5,Finance,0,Approved,14500
+INV053,2023-02-27,2023-03-14,Verification,11,15,Procurement,0,Approved,50000
+INV054,2023-02-28,2023-03-05,Classification,3,5,Finance,1,Approved,11500
+INV055,2023-03-01,2023-03-18,Document Entry,10,17,Operations,1,Approved,44000
+INV056,2023-03-02,2023-03-07,Classification,2,5,Finance,0,Approved,9000
+INV057,2023-03-03,2023-03-25,Verification,13,22,Procurement,1,Approved,72000
+INV058,2023-03-04,2023-03-09,Document Entry,4,5,Finance,0,Approved,16000
+INV059,2023-03-05,2023-03-20,Document Entry,8,15,Operations,1,Approved,36000
+INV060,2023-03-06,2023-03-11,Classification,3,5,Finance,0,Approved,11000
+INV061,2023-03-07,2023-03-28,Verification,15,21,Procurement,1,Pending,78000
+INV062,2023-03-08,2023-03-13,Document Entry,3,5,Finance,0,Approved,14000
+INV063,2023-03-09,2023-03-24,Verification,10,15,Procurement,0,Approved,48000
+INV064,2023-03-10,2023-03-15,Classification,2,5,Finance,1,Approved,10500
+INV065,2023-03-11,2023-03-28,Document Entry,9,17,Operations,1,Approved,41000
+INV066,2023-03-12,2023-03-17,Classification,3,5,Finance,0,Approved,12500
+INV067,2023-03-13,2023-04-03,Verification,14,21,Procurement,1,Approved,74000
+INV068,2023-03-14,2023-03-19,Document Entry,4,5,Finance,0,Approved,15500
+INV069,2023-03-15,2023-03-30,Document Entry,10,15,Operations,1,Approved,43000
+INV070,2023-03-16,2023-03-21,Classification,3,5,Finance,0,Approved,11500
+INV071,2023-03-17,2023-04-08,Verification,16,22,Procurement,1,Approved,80000
+INV072,2023-03-18,2023-03-23,Document Entry,3,5,Finance,0,Approved,14500
+INV073,2023-03-19,2023-04-03,Verification,11,15,Procurement,0,Approved,52000
+INV074,2023-03-20,2023-03-25,Classification,2,5,Finance,1,Approved,9500
+INV075,2023-03-21,2023-04-07,Document Entry,11,17,Operations,1,Approved,45000
+INV076,2023-03-22,2023-03-27,Classification,3,5,Finance,0,Approved,13000
+INV077,2023-03-23,2023-04-13,Verification,13,21,Procurement,1,Approved,70000
+INV078,2023-03-24,2023-03-29,Document Entry,4,5,Finance,0,Approved,16000
+INV079,2023-03-25,2023-04-09,Document Entry,9,15,Operations,1,Approved,38000
+INV080,2023-03-26,2023-03-31,Classification,3,5,Finance,0,Approved,10500
+INV081,2023-03-27,2023-04-17,Verification,14,21,Procurement,1,Pending,76000
+INV082,2023-03-28,2023-04-02,Document Entry,3,5,Finance,0,Approved,15000
+INV083,2023-03-29,2023-04-13,Verification,9,15,Procurement,0,Approved,49000
+INV084,2023-03-30,2023-04-04,Classification,2,5,Finance,1,Approved,11000
+INV085,2023-03-31,2023-04-17,Document Entry,10,17,Operations,1,Approved,42000
+INV086,2023-04-01,2023-04-06,Classification,3,5,Finance,0,Approved,12500
+INV087,2023-04-02,2023-04-23,Verification,15,21,Procurement,1,Approved,77000
+INV088,2023-04-03,2023-04-08,Document Entry,4,5,Finance,0,Approved,15500
+INV089,2023-04-04,2023-04-19,Document Entry,8,15,Operations,1,Approved,39000
+INV090,2023-04-05,2023-04-10,Classification,3,5,Finance,0,Approved,10500
+INV091,2023-04-06,2023-04-27,Verification,16,21,Procurement,1,Approved,79000
+INV092,2023-04-07,2023-04-12,Document Entry,3,5,Finance,0,Approved,14000
+INV093,2023-04-08,2023-04-23,Verification,10,15,Procurement,0,Approved,51000
+INV094,2023-04-09,2023-04-14,Classification,2,5,Finance,1,Approved,9500
+INV095,2023-04-10,2023-04-27,Document Entry,9,17,Operations,1,Approved,43000
+INV096,2023-04-11,2023-04-16,Classification,3,5,Finance,0,Approved,13000
+INV097,2023-04-12,2023-05-03,Verification,14,21,Procurement,1,Approved,75000
+INV098,2023-04-13,2023-04-18,Document Entry,4,5,Finance,0,Approved,15500
+INV099,2023-04-14,2023-04-29,Document Entry,10,15,Operations,1,Approved,44000
+INV100,2023-04-15,2023-04-20,Classification,3,5,Finance,0,Approved,11500
+INV101,2023-04-16,2023-05-07,Verification,15,21,Procurement,1,Pending,78000
+INV102,2023-04-17,2023-04-22,Document Entry,3,5,Finance,0,Approved,14500
+INV103,2023-04-18,2023-05-03,Verification,11,15,Procurement,0,Approved,50000
+INV104,2023-04-19,2023-04-24,Classification,2,5,Finance,1,Approved,9500
+INV105,2023-04-20,2023-05-07,Document Entry,11,17,Operations,1,Approved,45000
+INV106,2023-04-21,2023-04-26,Classification,3,5,Finance,0,Approved,13000
+INV107,2023-04-22,2023-05-13,Verification,13,21,Procurement,1,Approved,72000
+INV108,2023-04-23,2023-04-28,Document Entry,4,5,Finance,0,Approved,16000
+INV109,2023-04-24,2023-05-09,Document Entry,9,15,Operations,1,Approved,38000
+INV110,2023-04-25,2023-04-30,Classification,3,5,Finance,0,Approved,10500
+INV111,2023-04-26,2023-05-17,Verification,14,21,Procurement,1,Approved,76000
+INV112,2023-04-27,2023-05-02,Document Entry,3,5,Finance,0,Approved,15000
+INV113,2023-04-28,2023-05-13,Verification,9,15,Procurement,0,Approved,49000
+INV114,2023-04-29,2023-05-04,Classification,2,5,Finance,1,Approved,11000
+INV115,2023-04-30,2023-05-17,Document Entry,10,17,Operations,1,Approved,42000
+INV116,2023-05-01,2023-05-06,Classification,3,5,Finance,0,Approved,12500
+INV117,2023-05-02,2023-05-23,Verification,15,21,Procurement,1,Approved,77000
+INV118,2023-05-03,2023-05-08,Document Entry,4,5,Finance,0,Approved,15500
+INV119,2023-05-04,2023-05-19,Document Entry,8,15,Operations,1,Approved,39000
+INV120,2023-05-05,2023-05-10,Classification,3,5,Finance,0,Approved,10500
+INV121,2023-05-06,2023-05-27,Verification,16,21,Procurement,1,Approved,79000
+INV122,2023-05-07,2023-05-12,Document Entry,3,5,Finance,0,Approved,14000
+INV123,2023-05-08,2023-05-23,Verification,10,15,Procurement,0,Approved,51000
+INV124,2023-05-09,2023-05-14,Classification,2,5,Finance,1,Approved,9500
+INV125,2023-05-10,2023-05-27,Document Entry,9,17,Operations,1,Approved,43000
+INV126,2023-05-11,2023-05-16,Classification,3,5,Finance,0,Approved,13000
+INV127,2023-05-12,2023-06-02,Verification,14,21,Procurement,1,Approved,75000
+INV128,2023-05-13,2023-05-18,Document Entry,4,5,Finance,0,Approved,15500
+INV129,2023-05-14,2023-05-29,Document Entry,10,15,Operations,1,Approved,44000
+INV130,2023-05-15,2023-05-20,Classification,3,5,Finance,0,Approved,11500
+INV131,2023-05-16,2023-06-06,Verification,15,21,Procurement,1,Pending,78000
+INV132,2023-05-17,2023-05-22,Document Entry,3,5,Finance,0,Approved,14500
+INV133,2023-05-18,2023-06-02,Verification,11,15,Procurement,0,Approved,50000
+INV134,2023-05-19,2023-05-24,Classification,2,5,Finance,1,Approved,9500
+INV135,2023-05-20,2023-06-06,Document Entry,11,17,Operations,1,Approved,45000
+INV136,2023-05-21,2023-05-26,Classification,3,5,Finance,0,Approved,13000
+INV137,2023-05-22,2023-06-12,Verification,13,21,Procurement,1,Approved,72000
+INV138,2023-05-23,2023-05-28,Document Entry,4,5,Finance,0,Approved,16000
+INV139,2023-05-24,2023-06-08,Document Entry,9,15,Operations,1,Approved,38000
+INV140,2023-05-25,2023-05-30,Classification,3,5,Finance,0,Approved,10500
+INV141,2023-05-26,2023-06-16,Verification,14,21,Procurement,1,Approved,76000
+INV142,2023-05-27,2023-06-01,Document Entry,3,5,Finance,0,Approved,15000
+INV143,2023-05-28,2023-06-12,Verification,9,15,Procurement,0,Approved,49000
+INV144,2023-05-29,2023-06-03,Classification,2,5,Finance,1,Approved,11000
+INV145,2023-05-30,2023-06-16,Document Entry,10,17,Operations,1,Approved,42000
+INV146,2023-05-31,2023-06-05,Classification,3,5,Finance,0,Approved,12500
+INV147,2023-06-01,2023-06-22,Verification,15,21,Procurement,1,Approved,77000
+INV148,2023-06-02,2023-06-07,Document Entry,4,5,Finance,0,Approved,15500
+INV149,2023-06-03,2023-06-18,Document Entry,8,15,Operations,1,Approved,39000
+INV150,2023-06-04,2023-06-09,Classification,3,5,Finance,0,Approved,10500
+INV151,2023-06-05,2023-06-26,Verification,16,21,Procurement,1,Approved,79000
+INV152,2023-06-06,2023-06-11,Document Entry,3,5,Finance,0,Approved,14000
+INV153,2023-06-07,2023-06-22,Verification,10,15,Procurement,0,Approved,51000
+INV154,2023-06-08,2023-06-13,Classification,2,5,Finance,1,Approved,9500
+INV155,2023-06-09,2023-06-26,Document Entry,9,17,Operations,1,Approved,43000
+INV156,2023-06-10,2023-06-15,Classification,3,5,Finance,0,Approved,13000
+INV157,2023-06-11,2023-07-02,Verification,14,21,Procurement,1,Approved,75000
+INV158,2023-06-12,2023-06-17,Document Entry,4,5,Finance,0,Approved,15500
+INV159,2023-06-13,2023-06-28,Document Entry,10,15,Operations,1,Approved,44000
+INV160,2023-06-14,2023-06-19,Classification,3,5,Finance,0,Approved,11500
+INV161,2023-06-15,2023-07-05,Verification,15,20,Procurement,1,Pending,78000
+INV162,2023-06-16,2023-06-21,Document Entry,3,5,Finance,0,Approved,14500
+INV163,2023-06-17,2023-07-02,Verification,11,15,Procurement,0,Approved,50000
+INV164,2023-06-18,2023-06-23,Classification,2,5,Finance,1,Approved,9500
+INV165,2023-06-19,2023-07-06,Document Entry,11,17,Operations,1,Approved,45000
+INV166,2023-06-20,2023-06-25,Classification,3,5,Finance,0,Approved,13000
+INV167,2023-06-21,2023-07-12,Verification,13,21,Procurement,1,Approved,72000
+INV168,2023-06-22,2023-06-27,Document Entry,4,5,Finance,0,Approved,16000
+INV169,2023-06-23,2023-07-08,Document Entry,9,15,Operations,1,Approved,38000
+INV170,2023-06-24,2023-06-29,Classification,3,5,Finance,0,Approved,10500
+INV171,2023-06-25,2023-07-16,Verification,14,21,Procurement,1,Approved,76000
+INV172,2023-06-26,2023-07-01,Document Entry,3,5,Finance,0,Approved,15000
+INV173,2023-06-27,2023-07-12,Verification,9,15,Procurement,0,Approved,49000
+INV174,2023-06-28,2023-07-03,Classification,2,5,Finance,1,Approved,11000
+INV175,2023-06-29,2023-07-16,Document Entry,10,17,Operations,1,Approved,42000
+INV176,2023-06-30,2023-07-05,Classification,3,5,Finance,0,Approved,12500
+INV177,2023-07-01,2023-07-22,Verification,15,21,Procurement,1,Approved,77000
+INV178,2023-07-02,2023-07-07,Document Entry,4,5,Finance,0,Approved,15500
+INV179,2023-07-03,2023-07-18,Document Entry,8,15,Operations,1,Approved,39000
+INV180,2023-07-04,2023-07-09,Classification,3,5,Finance,0,Approved,10500
+INV181,2023-07-05,2023-07-26,Verification,16,21,Procurement,1,Approved,79000
+INV182,2023-07-06,2023-07-11,Document Entry,3,5,Finance,0,Approved,14000
+INV183,2023-07-07,2023-07-22,Verification,10,15,Procurement,0,Approved,51000
+INV184,2023-07-08,2023-07-13,Classification,2,5,Finance,1,Approved,9500
+INV185,2023-07-09,2023-07-26,Document Entry,9,17,Operations,1,Approved,43000
+INV186,2023-07-10,2023-07-15,Classification,3,5,Finance,0,Approved,13000
+INV187,2023-07-11,2023-08-01,Verification,14,21,Procurement,1,Approved,75000
+INV188,2023-07-12,2023-07-17,Document Entry,4,5,Finance,0,Approved,15500
+INV189,2023-07-13,2023-07-28,Document Entry,10,15,Operations,1,Approved,44000
+INV190,2023-07-14,2023-07-19,Classification,3,5,Finance,0,Approved,11500
+INV191,2023-07-15,2023-08-05,Verification,15,21,Procurement,1,Pending,78000
+INV192,2023-07-16,2023-07-21,Document Entry,3,5,Finance,0,Approved,14500
+INV193,2023-07-17,2023-08-01,Verification,11,15,Procurement,0,Approved,50000
+INV194,2023-07-18,2023-07-23,Classification,2,5,Finance,1,Approved,9500
+INV195,2023-07-19,2023-08-05,Document Entry,11,17,Operations,1,Approved,45000
+INV196,2023-07-20,2023-07-25,Classification,3,5,Finance,0,Approved,13000
+INV197,2023-07-21,2023-08-11,Verification,13,21,Procurement,1,Approved,72000
+INV198,2023-07-22,2023-07-27,Document Entry,4,5,Finance,0,Approved,16000
+INV199,2023-07-23,2023-08-07,Document Entry,9,15,Operations,1,Approved,38000
+INV200,2023-07-24,2023-07-29,Classification,3,5,Finance,0,Approved,10500
+INV201,2023-07-25,2023-08-15,Verification,14,21,Procurement,1,Approved,76000
+INV202,2023-07-26,2023-07-31,Document Entry,3,5,Finance,0,Approved,15000
+INV203,2023-07-27,2023-08-11,Verification,9,15,Procurement,0,Approved,49000
+INV204,2023-07-28,2023-08-02,Classification,2,5,Finance,1,Approved,11000
+INV205,2023-07-29,2023-08-15,Document Entry,10,17,Operations,1,Approved,42000
+INV206,2023-07-30,2023-08-04,Classification,3,5,Finance,0,Approved,12500
+INV207,2023-07-31,2023-08-21,Verification,15,21,Procurement,1,Approved,77000
+INV208,2023-08-01,2023-08-06,Document Entry,4,5,Finance,0,Approved,15500
+INV209,2023-08-02,2023-08-17,Document Entry,8,15,Operations,1,Approved,39000
+INV210,2023-08-03,2023-08-08,Classification,3,5,Finance,0,Approved,10500
+INV211,2023-08-04,2023-08-25,Verification,16,21,Procurement,1,Approved,79000
+INV212,2023-08-05,2023-08-10,Document Entry,3,5,Finance,0,Approved,14000
+INV213,2023-08-06,2023-08-21,Verification,10,15,Procurement,0,Approved,51000
+INV214,2023-08-07,2023-08-12,Classification,2,5,Finance,1,Approved,9500
+INV215,2023-08-08,2023-08-25,Document Entry,9,17,Operations,1,Approved,43000
+INV216,2023-08-09,2023-08-14,Classification,3,5,Finance,0,Approved,13000
+INV217,2023-08-10,2023-08-31,Verification,14,21,Procurement,1,Approved,75000
+INV218,2023-08-11,2023-08-16,Document Entry,4,5,Finance,0,Approved,15500
+INV219,2023-08-12,2023-08-27,Document Entry,10,15,Operations,1,Approved,44000
+INV220,2023-08-13,2023-08-18,Classification,3,5,Finance,0,Approved,11500
+INV221,2023-08-14,2023-09-04,Verification,15,21,Procurement,1,Pending,78000
+INV222,2023-08-15,2023-08-20,Document Entry,3,5,Finance,0,Approved,14500
+INV223,2023-08-16,2023-08-31,Verification,11,15,Procurement,0,Approved,50000
+INV224,2023-08-17,2023-08-22,Classification,2,5,Finance,1,Approved,9500
+INV225,2023-08-18,2023-09-04,Document Entry,11,17,Operations,1,Approved,45000
+INV226,2023-08-19,2023-08-24,Classification,3,5,Finance,0,Approved,13000
+INV227,2023-08-20,2023-09-10,Verification,13,21,Procurement,1,Approved,72000
+INV228,2023-08-21,2023-08-26,Document Entry,4,5,Finance,0,Approved,16000
+INV229,2023-08-22,2023-09-06,Document Entry,9,15,Operations,1,Approved,38000
+INV230,2023-08-23,2023-08-28,Classification,3,5,Finance,0,Approved,10500
+INV231,2023-08-24,2023-09-14,Verification,14,21,Procurement,1,Approved,76000
+INV232,2023-08-25,2023-08-30,Document Entry,3,5,Finance,0,Approved,15000
+INV233,2023-08-26,2023-09-10,Verification,9,15,Procurement,0,Approved,49000
+INV234,2023-08-27,2023-09-01,Classification,2,5,Finance,1,Approved,11000
+INV235,2023-08-28,2023-09-14,Document Entry,10,17,Operations,1,Approved,42000
+INV236,2023-08-29,2023-09-03,Classification,3,5,Finance,0,Approved,12500
+INV237,2023-08-30,2023-09-20,Verification,15,21,Procurement,1,Approved,77000
+INV238,2023-08-31,2023-09-05,Document Entry,4,5,Finance,0,Approved,15500
+INV239,2023-09-01,2023-09-16,Document Entry,8,15,Operations,1,Approved,39000
+INV240,2023-09-02,2023-09-07,Classification,3,5,Finance,0,Approved,10500
+INV241,2023-09-03,2023-09-24,Verification,16,21,Procurement,1,Approved,79000
+INV242,2023-09-04,2023-09-09,Document Entry,3,5,Finance,0,Approved,14000
+INV243,2023-09-05,2023-09-20,Verification,10,15,Procurement,0,Approved,51000
+INV244,2023-09-06,2023-09-11,Classification,2,5,Finance,1,Approved,9500
+INV245,2023-09-07,2023-09-24,Document Entry,9,17,Operations,1,Approved,43000
+INV246,2023-09-08,2023-09-13,Classification,3,5,Finance,0,Approved,13000
+INV247,2023-09-09,2023-09-30,Verification,14,21,Procurement,1,Approved,75000
+INV248,2023-09-10,2023-09-15,Document Entry,4,5,Finance,0,Approved,15500
+INV249,2023-09-11,2023-09-26,Document Entry,10,15,Operations,1,Approved,44000
+INV250,2023-09-12,2023-09-17,Classification,3,5,Finance,0,Approved,11500
+INV251,2023-09-13,2023-10-03,Verification,15,20,Procurement,1,Pending,78000
+INV252,2023-09-14,2023-09-19,Document Entry,3,5,Finance,0,Approved,14500
+INV253,2023-09-15,2023-09-30,Verification,11,15,Procurement,0,Approved,50000
+INV254,2023-09-16,2023-09-21,Classification,2,5,Finance,1,Approved,9500
+INV255,2023-09-17,2023-10-03,Document Entry,11,16,Operations,1,Approved,45000
+INV256,2023-09-18,2023-09-23,Classification,3,5,Finance,0,Approved,13000
+INV257,2023-09-19,2023-10-10,Verification,13,21,Procurement,1,Approved,72000
+INV258,2023-09-20,2023-09-25,Document Entry,4,5,Finance,0,Approved,16000
+INV259,2023-09-21,2023-10-06,Document Entry,9,15,Operations,1,Approved,38000
+INV260,2023-09-22,2023-09-27,Classification,3,5,Finance,0,Approved,10500
+INV261,2023-09-23,2023-10-14,Verification,14,21,Procurement,1,Approved,76000
+INV262,2023-09-24,2023-09-29,Document Entry,3,5,Finance,0,Approved,15000
+INV263,2023-09-25,2023-10-10,Verification,9,15,Procurement,0,Approved,49000
+INV264,2023-09-26,2023-10-01,Classification,2,5,Finance,1,Approved,11000
+INV265,2023-09-27,2023-10-14,Document Entry,10,17,Operations,1,Approved,42000
+INV266,2023-09-28,2023-10-03,Classification,3,5,Finance,0,Approved,12500
+INV267,2023-09-29,2023-10-20,Verification,15,21,Procurement,1,Approved,77000
+INV268,2023-09-30,2023-10-05,Document Entry,4,5,Finance,0,Approved,15500
+INV269,2023-10-01,2023-10-16,Document Entry,8,15,Operations,1,Approved,39000
+INV270,2023-10-02,2023-10-07,Classification,3,5,Finance,0,Approved,10500
+INV271,2023-10-03,2023-10-24,Verification,16,21,Procurement,1,Approved,79000
+INV272,2023-10-04,2023-10-09,Document Entry,3,5,Finance,0,Approved,14000
+INV273,2023-10-05,2023-10-20,Verification,10,15,Procurement,0,Approved,51000
+INV274,2023-10-06,2023-10-11,Classification,2,5,Finance,1,Approved,9500
+INV275,2023-10-07,2023-10-24,Document Entry,9,17,Operations,1,Approved,43000
+INV276,2023-10-08,2023-10-13,Classification,3,5,Finance,0,Approved,13000
+INV277,2023-10-09,2023-10-30,Verification,14,21,Procurement,1,Approved,75000
+INV278,2023-10-10,2023-10-15,Document Entry,4,5,Finance,0,Approved,15500
+INV279,2023-10-11,2023-10-26,Document Entry,10,15,Operations,1,Approved,44000
+INV280,2023-10-12,2023-10-17,Classification,3,5,Finance,0,Approved,11500
+INV281,2023-10-13,2023-11-02,Verification,15,20,Procurement,1,Pending,78000
+INV282,2023-10-14,2023-10-19,Document Entry,3,5,Finance,0,Approved,14500
+INV283,2023-10-15,2023-10-30,Verification,11,15,Procurement,0,Approved,50000
+INV284,2023-10-16,2023-10-21,Classification,2,5,Finance,1,Approved,9500
+INV285,2023-10-17,2023-11-03,Document Entry,11,17,Operations,1,Approved,45000
+INV286,2023-10-18,2023-10-23,Classification,3,5,Finance,0,Approved,13000
+INV287,2023-10-19,2023-11-09,Verification,13,21,Procurement,1,Approved,72000
+INV288,2023-10-20,2023-10-25,Document Entry,4,5,Finance,0,Approved,16000
+INV289,2023-10-21,2023-11-05,Document Entry,9,15,Operations,1,Approved,38000
+INV290,2023-10-22,2023-10-27,Classification,3,5,Finance,0,Approved,10500
+INV291,2023-10-23,2023-11-13,Verification,14,21,Procurement,1,Approved,76000
+INV292,2023-10-24,2023-10-29,Document Entry,3,5,Finance,0,Approved,15000
+INV293,2023-10-25,2023-11-09,Verification,9,15,Procurement,0,Approved,49000
+INV294,2023-10-26,2023-10-31,Classification,2,5,Finance,1,Approved,11000
+INV295,2023-10-27,2023-11-13,Document Entry,10,17,Operations,1,Approved,42000
+INV296,2023-10-28,2023-11-02,Classification,3,5,Finance,0,Approved,12500
+INV297,2023-10-29,2023-11-19,Verification,15,21,Procurement,1,Approved,77000
+INV298,2023-10-30,2023-11-04,Document Entry,4,5,Finance,0,Approved,15500
+INV299,2023-10-31,2023-11-15,Document Entry,8,15,Operations,1,Approved,39000
+INV300,2023-11-01,2023-11-06,Classification,3,5,Finance,0,Approved,10500
+INV301,2023-11-02,2023-11-23,Verification,16,21,Procurement,1,Approved,79000
+INV302,2023-11-03,2023-11-08,Document Entry,3,5,Finance,0,Approved,14000
+INV303,2023-11-04,2023-11-19,Verification,10,15,Procurement,0,Approved,51000
+INV304,2023-11-05,2023-11-10,Classification,2,5,Finance,1,Approved,9500
+INV305,2023-11-06,2023-11-23,Document Entry,9,17,Operations,1,Approved,43000
+INV306,2023-11-07,2023-11-12,Classification,3,5,Finance,0,Approved,13000
+INV307,2023-11-08,2023-11-29,Verification,14,21,Procurement,1,Approved,75000
+INV308,2023-11-09,2023-11-14,Document Entry,4,5,Finance,0,Approved,15500
+INV309,2023-11-10,2023-11-25,Document Entry,10,15,Operations,1,Approved,44000
+INV310,2023-11-11,2023-11-16,Classification,3,5,Finance,0,Approved,11500
+INV311,2023-11-12,2023-12-02,Verification,15,20,Procurement,1,Pending,78000
+INV312,2023-11-13,2023-11-18,Document Entry,3,5,Finance,0,Approved,14500
+INV313,2023-11-14,2023-11-29,Verification,11,15,Procurement,0,Approved,50000
+INV314,2023-11-15,2023-11-20,Classification,2,5,Finance,1,Approved,9500
+INV315,2023-11-16,2023-12-02,Document Entry,11,16,Operations,1,Approved,45000
+INV316,2023-11-17,2023-11-22,Classification,3,5,Finance,0,Approved,13000
+INV317,2023-11-18,2023-12-09,Verification,13,21,Procurement,1,Approved,72000
+INV318,2023-11-19,2023-11-24,Document Entry,4,5,Finance,0,Approved,16000
+INV319,2023-11-20,2023-12-05,Document Entry,9,15,Operations,1,Approved,38000
+INV320,2023-11-21,2023-11-26,Classification,3,5,Finance,0,Approved,10500
+INV321,2023-11-22,2023-12-13,Verification,14,21,Procurement,1,Approved,76000
+INV322,2023-11-23,2023-11-28,Document Entry,3,5,Finance,0,Approved,15000
+INV323,2023-11-24,2023-12-09,Verification,9,15,Procurement,0,Approved,49000
+INV324,2023-11-25,2023-11-30,Classification,2,5,Finance,1,Approved,11000
+INV325,2023-11-26,2023-12-13,Document Entry,10,17,Operations,1,Approved,42000
+INV326,2023-11-27,2023-12-02,Classification,3,5,Finance,0,Approved,12500
+INV327,2023-11-28,2023-12-19,Verification,15,21,Procurement,1,Approved,77000
+INV328,2023-11-29,2023-12-04,Document Entry,4,5,Finance,0,Approved,15500
+INV329,2023-11-30,2023-12-15,Document Entry,8,15,Operations,1,Approved,39000
+INV330,2023-12-01,2023-12-06,Classification,3,5,Finance,0,Approved,10500
+INV331,2023-12-02,2023-12-23,Verification,16,21,Procurement,1,Approved,79000
+INV332,2023-12-03,2023-12-08,Document Entry,3,5,Finance,0,Approved,14000
+INV333,2023-12-04,2023-12-19,Verification,10,15,Procurement,0,Approved,51000
+INV334,2023-12-05,2023-12-10,Classification,2,5,Finance,1,Approved,9500
+INV335,2023-12-06,2023-12-23,Document Entry,9,17,Operations,1,Approved,43000
+INV336,2023-12-07,2023-12-12,Classification,3,5,Finance,0,Approved,13000
+INV337,2023-12-08,2023-12-29,Verification,14,21,Procurement,1,Approved,75000
+INV338,2023-12-09,2023-12-14,Document Entry,4,5,Finance,0,Approved,15500
+INV339,2023-12-10,2023-12-25,Document Entry,10,15,Operations,1,Approved,44000
+INV340,2023-12-11,2023-12-16,Classification,3,5,Finance,0,Approved,11500
+INV341,2023-12-12,2024-01-01,Verification,15,20,Procurement,1,Pending,78000
+INV342,2023-12-13,2023-12-18,Document Entry,3,5,Finance,0,Approved,14500
+INV343,2023-12-14,2023-12-29,Verification,11,15,Procurement,0,Approved,50000
+INV344,2023-12-15,2023-12-20,Classification,2,5,Finance,1,Approved,9500
+INV345,2023-12-16,2024-01-02,Document Entry,11,17,Operations,1,Approved,45000
+INV346,2023-12-17,2023-12-22,Classification,3,5,Finance,0,Approved,13000
+INV347,2023-12-18,2024-01-08,Verification,13,21,Procurement,1,Approved,72000
+INV348,2023-12-19,2023-12-24,Document Entry,4,5,Finance,0,Approved,16000
+INV349,2023-12-20,2024-01-04,Document Entry,9,15,Operations,1,Approved,38000
+INV350,2023-12-21,2023-12-26,Classification,3,5,Finance,0,Approved,10500
+INV351,2023-12-22,2024-01-12,Verification,14,21,Procurement,1,Approved,76000
+INV352,2023-12-23,2023-12-28,Document Entry,3,5,Finance,0,Approved,15000
+INV353,2023-12-24,2024-01-08,Verification,9,15,Procurement,0,Approved,49000
+INV354,2023-12-25,2023-12-30,Classification,2,5,Finance,1,Approved,11000
+INV355,2023-12-26,2024-01-12,Document Entry,10,17,Operations,1,Approved,42000
+INV356,2023-12-27,2024-01-01,Classification,3,5,Finance,0,Approved,12500
+INV357,2023-12-28,2024-01-18,Verification,15,21,Procurement,1,Approved,77000
+INV358,2023-12-29,2024-01-03,Document Entry,4,5,Finance,0,Approved,15500
+INV359,2023-12-30,2024-01-14,Document Entry,8,15,Operations,1,Approved,39000
+INV360,2023-12-31,2024-01-05,Classification,3,5,Finance,0,Approved,10500
+INV361,2024-01-01,2024-01-22,Verification,16,21,Procurement,1,Approved,79000
+INV362,2024-01-02,2024-01-07,Document Entry,3,5,Finance,0,Approved,14000
+INV363,2024-01-03,2024-01-18,Verification,10,15,Procurement,0,Approved,51000
+INV364,2024-01-04,2024-01-09,Classification,2,5,Finance,1,Approved,9500
+INV365,2024-01-05,2024-01-22,Document Entry,9,17,Operations,1,Approved,43000
+INV366,2024-01-06,2024-01-11,Classification,3,5,Finance,0,Approved,13000
+INV367,2024-01-07,2024-01-28,Verification,14,21,Procurement,1,Approved,75000
+INV368,2024-01-08,2024-01-13,Document Entry,4,5,Finance,0,Approved,15500
+INV369,2024-01-09,2024-01-24,Document Entry,10,15,Operations,1,Approved,44000
+INV370,2024-01-10,2024-01-15,Classification,3,5,Finance,0,Approved,11500
+INV371,2024-01-11,2024-02-01,Verification,15,21,Procurement,1,Pending,78000
+INV372,2024-01-12,2024-01-17,Document Entry,3,5,Finance,0,Approved,14500
+INV373,2024-01-13,2024-01-28,Verification,11,15,Procurement,0,Approved,50000
+INV374,2024-01-14,2024-01-19,Classification,2,5,Finance,1,Approved,9500
+INV375,2024-01-15,2024-02-01,Document Entry,11,17,Operations,1,Approved,45000
+INV376,2024-01-16,2024-01-21,Classification,3,5,Finance,0,Approved,13000
+INV377,2024-01-17,2024-02-07,Verification,13,21,Procurement,1,Approved,72000
+INV378,2024-01-18,2024-01-23,Document Entry,4,5,Finance,0,Approved,16000
+INV379,2024-01-19,2024-02-03,Document Entry,9,15,Operations,1,Approved,38000
+INV380,2024-01-20,2024-01-25,Classification,3,5,Finance,0,Approved,10500
+INV381,2024-01-21,2024-02-11,Verification,14,21,Procurement,1,Approved,76000
+INV382,2024-01-22,2024-01-27,Document Entry,3,5,Finance,0,Approved,15000
+INV383,2024-01-23,2024-02-07,Verification,9,15,Procurement,0,Approved,49000
+INV384,2024-01-24,2024-01-29,Classification,2,5,Finance,1,Approved,11000
+INV385,2024-01-25,2024-02-11,Document Entry,10,17,Operations,1,Approved,42000
+INV386,2024-01-26,2024-01-31,Classification,3,5,Finance,0,Approved,12500
+INV387,2024-01-27,2024-02-17,Verification,15,21,Procurement,1,Approved,77000
+INV388,2024-01-28,2024-02-02,Document Entry,4,5,Finance,0,Approved,15500
+INV389,2024-01-29,2024-02-13,Document Entry,8,15,Operations,1,Approved,39000
+INV390,2024-01-30,2024-02-04,Classification,3,5,Finance,0,Approved,10500
+INV391,2024-01-31,2024-02-21,Verification,16,21,Procurement,1,Approved,79000
+INV392,2024-02-01,2024-02-06,Document Entry,3,5,Finance,0,Approved,14000
+INV393,2024-02-02,2024-02-17,Verification,10,15,Procurement,0,Approved,51000
+INV394,2024-02-03,2024-02-08,Classification,2,5,Finance,1,Approved,9500
+INV395,2024-02-04,2024-02-21,Document Entry,9,17,Operations,1,Approved,43000
+INV396,2024-02-05,2024-02-10,Classification,3,5,Finance,0,Approved,13000
+INV397,2024-02-06,2024-02-27,Verification,14,21,Procurement,1,Approved,75000
+INV398,2024-02-07,2024-02-12,Document Entry,4,5,Finance,0,Approved,15500
+INV399,2024-02-08,2024-02-23,Document Entry,10,15,Operations,1,Approved,44000
+INV400,2024-02-09,2024-02-14,Classification,3,5,Finance,0,Approved,11500
+INV401,2024-02-10,2024-03-01,Verification,15,20,Procurement,1,Pending,78000
+INV402,2024-02-11,2024-02-16,Document Entry,3,5,Finance,0,Approved,14500
+INV403,2024-02-12,2024-02-27,Verification,11,15,Procurement,0,Approved,50000
+INV404,2024-02-13,2024-02-18,Classification,2,5,Finance,1,Approved,9500
+INV405,2024-02-14,2024-03-01,Document Entry,11,16,Operations,1,Approved,45000
+INV406,2024-02-15,2024-02-20,Classification,3,5,Finance,0,Approved,13000
+INV407,2024-02-16,2024-03-07,Verification,13,20,Procurement,1,Approved,72000
+INV408,2024-02-17,2024-02-22,Document Entry,4,5,Finance,0,Approved,16000
+INV409,2024-02-18,2024-03-04,Document Entry,9,15,Operations,1,Approved,38000
+INV410,2024-02-19,2024-02-24,Classification,3,5,Finance,0,Approved,10500
+INV411,2024-02-20,2024-03-11,Verification,14,20,Procurement,1,Approved,76000
+INV412,2024-02-21,2024-02-26,Document Entry,3,5,Finance,0,Approved,15000
+INV413,2024-02-22,2024-03-08,Verification,9,15,Procurement,0,Approved,49000
+INV414,2024-02-23,2024-02-28,Classification,2,5,Finance,1,Approved,11000
+INV415,2024-02-24,2024-03-11,Document Entry,10,16,Operations,1,Approved,42000
+INV416,2024-02-25,2024-03-01,Classification,3,5,Finance,0,Approved,12500
+INV417,2024-02-26,2024-03-17,Verification,15,20,Procurement,1,Approved,77000
+INV418,2024-02-27,2024-03-03,Document Entry,4,5,Finance,0,Approved,15500
+INV419,2024-02-28,2024-03-14,Document Entry,8,15,Operations,1,Approved,39000
+INV420,2024-02-29,2024-03-05,Classification,3,5,Finance,0,Approved,10500
+INV421,2024-03-01,2024-03-22,Verification,16,21,Procurement,1,Approved,79000
+INV422,2024-03-02,2024-03-07,Document Entry,3,5,Finance,0,Approved,14000
+INV423,2024-03-03,2024-03-18,Verification,10,15,Procurement,0,Approved,51000
+INV424,2024-03-04,2024-03-09,Classification,2,5,Finance,1,Approved,9500
+INV425,2024-03-05,2024-03-22,Document Entry,9,17,Operations,1,Approved,43000
+INV426,2024-03-06,2024-03-11,Classification,3,5,Finance,0,Approved,13000
+INV427,2024-03-07,2024-03-28,Verification,14,21,Procurement,1,Approved,75000
+INV428,2024-03-08,2024-03-13,Document Entry,4,5,Finance,0,Approved,15500
+INV429,2024-03-09,2024-03-24,Document Entry,10,15,Operations,1,Approved,44000
+INV430,2024-03-10,2024-03-15,Classification,3,5,Finance,0,Approved,11500
+INV431,2024-03-11,2024-04-01,Verification,15,21,Procurement,1,Pending,78000
+INV432,2024-03-12,2024-03-17,Document Entry,3,5,Finance,0,Approved,14500
+INV433,2024-03-13,2024-03-28,Verification,11,15,Procurement,0,Approved,50000
+INV434,2024-03-14,2024-03-19,Classification,2,5,Finance,1,Approved,9500
+INV435,2024-03-15,2024-04-01,Document Entry,11,17,Operations,1,Approved,45000
+INV436,2024-03-16,2024-03-21,Classification,3,5,Finance,0,Approved,13000
+INV437,2024-03-17,2024-04-07,Verification,13,21,Procurement,1,Approved,72000
+INV438,2024-03-18,2024-03-23,Document Entry,4,5,Finance,0,Approved,16000
+INV439,2024-03-19,2024-04-03,Document Entry,9,15,Operations,1,Approved,38000
+INV440,2024-03-20,2024-03-25,Classification,3,5,Finance,0,Approved,10500
+INV441,2024-03-21,2024-04-11,Verification,14,21,Procurement,1,Approved,76000
+INV442,2024-03-22,2024-03-27,Document Entry,3,5,Finance,0,Approved,15000
+INV443,2024-03-23,2024-04-07,Verification,9,15,Procurement,0,Approved,49000
+INV444,2024-03-24,2024-03-29,Classification,2,5,Finance,1,Approved,11000
+INV445,2024-03-25,2024-04-11,Document Entry,10,17,Operations,1,Approved,42000
+INV446,2024-03-26,2024-03-31,Classification,3,5,Finance,0,Approved,12500
+INV447,2024-03-27,2024-04-17,Verification,15,21,Procurement,1,Approved,77000
+INV448,2024-03-28,2024-04-02,Document Entry,4,5,Finance,0,Approved,15500
+INV449,2024-03-29,2024-04-13,Document Entry,8,15,Operations,1,Approved,39000
+INV450,2024-03-30,2024-04-04,Classification,3,5,Finance,0,Approved,10500
+INV451,2024-03-31,2024-04-21,Verification,16,21,Procurement,1,Approved,79000
+INV452,2024-04-01,2024-04-06,Document Entry,3,5,Finance,0,Approved,14000
+INV453,2024-04-02,2024-04-17,Verification,10,15,Procurement,0,Approved,51000
+INV454,2024-04-03,2024-04-08,Classification,2,5,Finance,1,Approved,9500
+INV455,2024-04-04,2024-04-21,Document Entry,9,17,Operations,1,Approved,43000
+INV456,2024-04-05,2024-04-10,Classification,3,5,Finance,0,Approved,13000
+INV457,2024-04-06,2024-04-27,Verification,14,21,Procurement,1,Approved,75000
+INV458,2024-04-07,2024-04-12,Document Entry,4,5,Finance,0,Approved,15500
+INV459,2024-04-08,2024-04-23,Document Entry,10,15,Operations,1,Approved,44000
+INV460,2024-04-09,2024-04-14,Classification,3,5,Finance,0,Approved,11500
+INV461,2024-04-10,2024-05-01,Verification,15,21,Procurement,1,Pending,78000
+INV462,2024-04-11,2024-04-16,Document Entry,3,5,Finance,0,Approved,14500
+INV463,2024-04-12,2024-04-27,Verification,11,15,Procurement,0,Approved,50000
+INV464,2024-04-13,2024-04-18,Classification,2,5,Finance,1,Approved,9500
+INV465,2024-04-14,2024-05-01,Document Entry,11,17,Operations,1,Approved,45000
+INV466,2024-04-15,2024-04-20,Classification,3,5,Finance,0,Approved,13000
+INV467,2024-04-16,2024-05-07,Verification,13,21,Procurement,1,Approved,72000
+INV468,2024-04-17,2024-04-22,Document Entry,4,5,Finance,0,Approved,16000
+INV469,2024-04-18,2024-05-03,Document Entry,9,15,Operations,1,Approved,38000
+INV470,2024-04-19,2024-04-24,Classification,3,5,Finance,0,Approved,10500
+INV471,2024-04-20,2024-05-11,Verification,14,21,Procurement,1,Approved,76000
+INV472,2024-04-21,2024-04-26,Document Entry,3,5,Finance,0,Approved,15000
+INV473,2024-04-22,2024-05-07,Verification,9,15,Procurement,0,Approved,49000
+INV474,2024-04-23,2024-04-28,Classification,2,5,Finance,1,Approved,11000
+INV475,2024-04-24,2024-05-11,Document Entry,10,17,Operations,1,Approved,42000
+INV476,2024-04-25,2024-04-30,Classification,3,5,Finance,0,Approved,12500
+INV477,2024-04-26,2024-05-17,Verification,15,21,Procurement,1,Approved,77000
+INV478,2024-04-27,2024-05-02,Document Entry,4,5,Finance,0,Approved,15500
+INV479,2024-04-28,2024-05-13,Document Entry,8,15,Operations,1,Approved,39000
+INV480,2024-04-29,2024-05-04,Classification,3,5,Finance,0,Approved,10500
+INV481,2024-04-30,2024-05-21,Verification,16,21,Procurement,1,Approved,79000
+INV482,2024-05-01,2024-05-06,Document Entry,3,5,Finance,0,Approved,14000
+INV483,2024-05-02,2024-05-17,Verification,10,15,Procurement,0,Approved,51000
+INV484,2024-05-03,2024-05-08,Classification,2,5,Finance,1,Approved,9500
+INV485,2024-05-04,2024-05-21,Document Entry,9,17,Operations,1,Approved,43000
+INV486,2024-05-05,2024-05-10,Classification,3,5,Finance,0,Approved,13000
+INV487,2024-05-06,2024-05-27,Verification,14,21,Procurement,1,Approved,75000
+INV488,2024-05-07,2024-05-12,Document Entry,4,5,Finance,0,Approved,15500
+INV489,2024-05-08,2024-05-23,Document Entry,10,15,Operations,1,Approved,44000
+INV490,2024-05-09,2024-05-14,Classification,3,5,Finance,0,Approved,11500
+INV491,2024-05-10,2024-05-31,Verification,15,21,Procurement,1,Pending,78000
+INV492,2024-05-11,2024-05-16,Document Entry,3,5,Finance,0,Approved,14500
+INV493,2024-05-12,2024-05-27,Verification,11,15,Procurement,0,Approved,50000
+INV494,2024-05-13,2024-05-18,Classification,2,5,Finance,1,Approved,9500
+INV495,2024-05-14,2024-05-31,Document Entry,11,17,Operations,1,Approved,45000
+INV496,2024-05-15,2024-05-20,Classification,3,5,Finance,0,Approved,13000
+INV497,2024-05-16,2024-06-06,Verification,13,21,Procurement,1,Approved,72000
+INV498,2024-05-17,2024-05-22,Document Entry,4,5,Finance,0,Approved,16000
+INV499,2024-05-18,2024-06-02,Document Entry,9,15,Operations,1,Approved,38000
+INV500,2024-05-19,2024-05-24,Classification,3,5,Finance,0,Approved,10500
