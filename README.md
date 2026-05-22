@@ -171,9 +171,9 @@ jupyter notebook financial_process_analysis.ipynb
 ## Questions & Contact
 
 For questions about this analysis or to discuss process optimization strategies, feel free to reach out via:
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** f20221800@hyderabad.bits-pilani.ac.in
+- **LinkedIn:** https://www.linkedin.com/in/iyer-ram/
+- **GitHub:** https://github.com/ramiyer-0
 
 ---
 
